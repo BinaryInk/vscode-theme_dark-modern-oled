@@ -1,9 +1,14 @@
 # Changelog
 
-## v0.1.1 (2023-08-10)
+## v0.1.2 (2023-08-10)
 
+- Changed the display name of the theme. Missed it when I was renaming the
+extension prior to publishing. Better matches the default naming scheme.
+  - "VS Code Modern Dark (OLED)" -> "Dark Modern (OLED Black)"
 - Lowered the version requirement, as I can confirm it runs on a lower version
 than initially specified...
+- Added disclaimer to the README regarding the use of the term "OLED" and how
+this is not designed to reduce burn-in, moved picture to own directory.
 
 ## v0.1.0 (2023-08-10)
 

@@ -4,7 +4,7 @@
   "displayName": "Dark Modern (OLED Black) Theme Set",
   "repository": "https://github.com/BinaryInk/vscode-theme_dark-modern-oled",
   "description": "Visual Studio Code theme designed to be the OLED Black variant of the default Dark/Light Modern themes shipped with the application.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -14,7 +14,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "VS Code Modern Dark (OLED)",
+        "label": "Dark Modern (OLED Black)",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_modern_oled.json"
       }

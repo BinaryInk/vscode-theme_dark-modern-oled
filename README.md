@@ -9,39 +9,36 @@ Visual Studio Code theme designed to be the "OLED Black" variant of the default
 
 ![Screenshot](images/Screenshot_0.1.0_OLEDBlack.png)
 
-My enhancements:
-
 * Backgrounds are black (#000).
 * Foregrounds are white (#fff).
-* Sidebar foregrounds are bright white, while the selected foreground takes on
+* Activity bar foregrounds are bright white, while the selected foreground takes on
 the accent color.
-* Status bar shows status through *border color* rather than background color.
-* Accent color is leaned into more to show active items. Inactive text is bright
+* Status bar shows status through border and foreground color rather than background color.
+* Overall, accent color is leaned into more to show active items. Inactive text is bright
 white rather than greyed out.
+
+### Dark Modern (OLED Black) Stylized
+
+* Constants and enums: bold
+* Functions: italic bold
+* Types/Classes: underline
+* Comments: Italic
 
 ## Roadmap
 
 No concrete dates or plans, but I would like to add a few themes to the list
 for a little variation (while remaining more-or-less faithful to the default).
 
-* 0.1
-  * Initial Release
-* 0.2
-  * Stylized variant
-* 0.3
-  * Neon Black + Stylized variant
-* 0.4
-  * Dim Black + Stylized variant
-* 0.5
-  * Accent color variants
-  * Accent colorless variant ("High Contrast")
+* Neon Black + Stylized variant
+* Dim Black + Stylized variant
+* Accent color variants
+* Accent colorless variant ("High Contrast")
 * ...?
-* 1.0
 
 ## Disclaimer
 
 This is not designed to reduce "burn-in" on OLED screens. This is a very
-high contrast oriented theme and would have the opposite effect.
+high contrast theme and could have the opposite effect.
 
 OLED, in this case, refers to the fact that the backgrounds are pitch-black.
 The nomenclature derives from the fact that OLED screens are very good at

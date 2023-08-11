@@ -7,7 +7,7 @@ Visual Studio Code theme designed to be the "OLED Black" variant of the default
 
 ### Dark Modern (OLED Black)
 
-![Screenshot](images/Screenshot_0.1.0_OLEDBlack.png)
+![Screenshot](images/Screenshot_0.2.0_oled-black.png)
 
 * Backgrounds are black (#000).
 * Foregrounds are white (#fff).
@@ -19,10 +19,12 @@ white rather than greyed out.
 
 ### Dark Modern (OLED Black) Stylized
 
+![Screenshot2](images/Screenshot_0.2.0_oled-black-stylized.png)
+
 * Constants and enums: bold
 * Functions: italic bold
 * Types/Classes: underline
-* Comments: Italic
+* Comments: italic
 
 ## Roadmap
 
@@ -48,8 +50,8 @@ hence the initial need for the descriptor.
 
 ## Contributing
 
-I use VSCode daily but I do not use every facet, so there are areas in the
-theme I did not give attention to if I didn't notice it in the UI itself.
+I use VSCode daily but I do not use every facet, so there may be areas in the
+theme I did not give attention to if I didn't notice it.
 
 If there's any area of the UI I have missed, or if a subsequent update changes
 a background color or otherwise breaks the theme, feel free to submit an issue

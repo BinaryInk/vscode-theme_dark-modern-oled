@@ -1,0 +1,55 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Default Dark Modern (OLED Black) Stylized [Green]",
+    "include": "./dark_modern_oled_color_green.json",
+    "tokenColors":[
+        {
+            "name": "Constants and enums",
+            "scope": [
+            "variable.other.constant",
+            "variable.other.enummember",
+            "support.constant.math",
+            "support.constant.dom",
+            "support.constant.json"
+            ],
+            "settings": {
+              "fontStyle": "bold"
+            }
+        },
+        {
+            "name": "Function declarations",
+            "scope": [
+              "entity.name.function",
+              "support.function",
+              "support.constant.handlebars",
+              "source.powershell variable.other.member",
+              "entity.name.operator.custom-literal"
+            ],
+            "settings": {
+              "fontStyle": "italic bold"
+            }
+        },
+        {
+            "name": "Types declaration and references",
+            "scope": [
+              "support.class",
+              "support.type",
+              "entity.name.type",
+              "entity.name.class"
+            ],
+            "settings": {
+              "fontStyle": "underline"
+            }
+        },
+        {
+          "name": "Comments",
+          "scope": [
+            "comment",
+            "string.quoted.docstring"
+          ],
+          "settings": {
+            "fontStyle": "italic"
+          }
+        },
+    ]
+}

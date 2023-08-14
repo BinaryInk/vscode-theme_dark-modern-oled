@@ -1,0 +1,24 @@
+{
+    "$schema": "vscode://schemas/color-theme",
+    "name": "Default Dark Modern (OLED Black) [White]",
+    "include": "./dark_modern_oled.json",
+    "colors": {
+        "activityBarBadge.background": "#fff",
+        "activityBarBadge.foreground": "#000",
+        "activityBar.foreground": "#fff",
+        "activityBar.activeBorder": "#fff",
+        "editorLineNumber.activeForeground": "#fff",
+        "notificationCenterHeader.background": "#fff",
+        "panelTitle.activeBorder": "#fff",
+        "panelTitle.activeForeground": "#fff",
+        "progressBar.background": "#fff",
+        "scrollbarSlider.activeBackground": "#fff",
+        "settings.modifiedItemIndicator": "#fff",
+        "checkbox.foreground": "#fff",
+        "statusBar.border": "#fff",
+        "statusBar.foreground": "#fff",
+        "statusBarItem.remoteForeground": "#fff",
+        "tab.activeBorderTop": "#fff",
+        "tab.activeForeground": "#fff",
+    }
+}

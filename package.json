@@ -22,6 +22,86 @@
         "label": "Dark Modern (OLED Black) Stylized",
         "uiTheme": "vs-dark",
         "path": "./themes/dark_modern_oled_stylized.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Red]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_red.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Green]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_green.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Yellow]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_yellow.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Orange]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_orange.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Teal]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_teal.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Purple]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_purple.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [Fuchsia]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_fuchsia.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) [White]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_color_white.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Red]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_red.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Green]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_green.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Yellow]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_yellow.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Orange]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_orange.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Teal]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_teal.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Purple]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_purple.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [Fuchsia]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_fuchsia.json"
+      },
+      {
+        "label": "Dark Modern (OLED Black) Stylized [White]",
+        "uiTheme": "vs-dark",
+        "path": "/themes/dark_modern_oled_stylized_white.json"
       }
     ]
   }

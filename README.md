@@ -26,6 +26,37 @@ white rather than greyed out.
 * Types/Classes: underline
 * Comments: italic
 
+### Color Variants
+
+The following color variants are available for both styles above:
+
+* Red
+* Orange
+* Yellow
+* Green
+* Teal
+* Purple
+* Fuchsia
+* White
+
+## Most Recent Changes
+
+### v0.3 (2023-08-14)
+
+- Added the following accent color variants for standard and stylized:
+  - Red
+  - Orange
+  - Yellow
+  - Green
+  - Teal
+  - Purple
+  - Fuchsia
+  - White
+
+### Previous
+
+See CHANGELOG for previous changes.
+
 ## Roadmap
 
 No concrete dates or plans, but I would like to add a few themes to the list

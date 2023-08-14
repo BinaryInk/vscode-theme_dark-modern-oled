@@ -64,8 +64,6 @@ for a little variation (while remaining more-or-less faithful to the default).
 
 * Neon Black + Stylized variant
 * Dim Black + Stylized variant
-* Accent color variants
-* Accent colorless variant ("High Contrast")
 * ...?
 
 ## Disclaimer

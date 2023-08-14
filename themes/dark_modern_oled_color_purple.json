@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Default Dark Modern (OLED Black) [Teal]",
+    "name": "Default Dark Modern (OLED Black) [Purple]",
     "include": "./dark_modern_oled.json",
     "colors": {
         "activityBarBadge.background": "#85f",
@@ -17,7 +17,20 @@
         "statusBar.border": "#85f",
         "statusBar.foreground": "#85f",
         "statusBarItem.remoteForeground": "#85f",
-        "tab.activeBorderTop": "#85f",
         "tab.activeForeground": "#85f",
+        "badge.background": "#85f",
+        "badge.foreground": "#fff",
+        "button.background": "#85f",
+        "button.foreground": "#fff",
+        "button.hoverBackground": "#8855ffe6",
+        "editorGutter.modifiedBackground": "#85f",
+        "focusBorder": "#85f",
+        "inputOption.activeBackground": "#8855ff82",
+        "inputOption.activeBorder": "#85f",
+        "statusBar.focusBorder": "#85f",
+        "statusBarItem.focusBorder": "#85f",
+        "tab.activeBorderTop": "#85f",
+        "terminal.tab.activeBorder": "#85f",
+        "welcomePage.progress.foreground": "#85f",
     }
 }

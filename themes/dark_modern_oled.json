@@ -95,6 +95,18 @@
         "titleBar.activeForeground": "#fff",
         "titleBar.border": "#444",
         "titleBar.inactiveBackground": "#000",
-        "titleBar.inactiveForeground": "#ccc"
+        "titleBar.inactiveForeground": "#ccc",
+        "badge.background": "#41aafa",
+        "badge.foreground": "#000",
+        "button.background": "#41aafa",
+        "button.foreground": "#000",
+        "button.hoverBackground": "#41aafae6",
+        "editorGutter.modifiedBackground": "#41aafa",
+        "focusBorder": "#41aafa",
+        "inputOption.activeBackground": "#41aafa82",
+        "inputOption.activeBorder": "#41aafa",
+        "statusBarItem.focusBorder": "#41aafa",
+        "terminal.tab.activeBorder": "#41aafa",
+        "welcomePage.progress.foreground": "#41aafa",
     }
 }

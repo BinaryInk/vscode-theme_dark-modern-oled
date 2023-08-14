@@ -1,6 +1,6 @@
 # Changelog
 
-## v0.3 (2023-08-14)
+## v0.3.1 (2023-08-14)
 
 - Added the following accent color variants for standard and stylized:
   - Red
@@ -11,6 +11,7 @@
   - Purple
   - Fuchsia
   - White
+- Fixed missing accent color changes in the original (and in the new variants).
 
 ## v0.2 (2023-08-11)
 

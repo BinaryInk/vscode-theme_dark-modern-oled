@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.3.2 (2023-08-15)
+
+- Fixed foreground color of activity badge in most themes.
+
 ## v0.3.1 (2023-08-14)
 
 - Added the following accent color variants for standard and stylized:
@@ -17,8 +21,8 @@
 
 - Added Dark Modern (OLED Black) Stylized
 
-- Fixed the name of the original in its JSON. I don't think this had any visible
-side effects.
+- Fixed the name of the original in its JSON. Affects the order in which themes
+appear.
 - Changed the default blue accent color to be more readable when used with text.
 - Changed the status bar foreground to use the accent color when in a folder.
 

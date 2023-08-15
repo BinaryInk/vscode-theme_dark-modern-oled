@@ -4,6 +4,7 @@
     "include": "./dark_modern_oled.json",
     "colors": {
         "activityBarBadge.background": "#0d0",
+        "activityBarBadge.foreground": "#000",
         "activityBar.foreground": "#0d0",
         "activityBar.activeBorder": "#0d0",
         "editorLineNumber.activeForeground": "#0d0",

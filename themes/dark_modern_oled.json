@@ -10,7 +10,7 @@
         "activityBar.dropBorder": "#fff",
         "activityBar.inactiveForeground": "#fff",
         "activityBarBadge.background": "#41aafa",
-        "activityBarBadge.foreground": "#fff",
+        "activityBarBadge.foreground": "#000",
         "activityBar.foreground": "#41aafa",
         "activityBar.activeBorder": "#41aafa",
         "checkbox.background": "#000",

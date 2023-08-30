@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.4 (2023-08-30)
+
+- Added the following **Dim** variants for standard and stylized:
+  - Dim
+    - Lower contrast version of Modern Dark (OLED)
+  - Dim+
+    - Lower contrast version of Modern Dark (OLED), including syntax highlight
+    colors
+- Added the following Light theme
+  - Light Modern (OLED) Stylized
+    - No changes to Light Modern, added stylization to syntax highlighting.
+
 ## v0.3.2 (2023-08-15)
 
 - Fixed foreground color of activity badge in most themes.

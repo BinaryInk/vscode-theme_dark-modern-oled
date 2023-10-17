@@ -127,6 +127,16 @@
         "label": "Light Modern (OLED) Stylized",
         "uiTheme": "vs",
         "path": "./themes/light_modern_oled_stylized.json"
+      },
+      {
+        "label": "Light Modern (OLED) Saturated",
+        "uiTheme": "vs",
+        "path": "./themes/light_modern_oled_saturated.json"
+      },
+      {
+        "label": "Light Modern (OLED) Saturated Stylized",
+        "uiTheme": "vs",
+        "path": "./themes/light_modern_oled_saturated_stylized.json"
       }
     ]
   }

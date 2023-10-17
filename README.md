@@ -1,7 +1,7 @@
 # Dark Modern (OLED Black) Theme Set
 
 Visual Studio Code theme designed to be the "OLED Black" variant of the default
-"Dark/Light Modern" themes shipped with the application.
+"Dark/Light Modern" themes shipped with the application; along with a few light themes.
 
 ## Included Themes
 
@@ -36,9 +36,12 @@ white rather than greyed out.
 - See the Custom Colors section below to set your own color.
 - Screenshot Note: I have highlighting of brackets turned on in VSCode. I would recommend disabling this feature if you plan to use Dim+.
 
-### Light Modern (OLED) Stylized
+### Light Modern (OLED) Saturated & Stylized
 
-- This is the same as Light Modern with stylization added.
+- Stylized is the same as Light Modern with stylization added.
+- Saturated is Light Modern with the syntax coloring more saturated. The primary goal is to make
+  the syntax highlighting more distinct and readable overall. The only deviations are that the 
+  comments are grey instead of green and function declarations are green instead of yellow.
 
 (I happen to think the default light theme looks great as-is, though I may provide changes down the road that amp up the contrast a touch. I primarily wanted to provide a stylized counterpart.)
 
@@ -97,15 +100,7 @@ There are no changes to syntax highlighting colors above.
 ## Most Recent Changes
 
 - Added the following variants for standard and stylized:
-  - Dim
-    - Lower contrast.
-    - All workbench foreground colors are significantly less white.
-    - Accent color is darker.
-    - Syntax highlighting is left alone.
-  - Dim+
-    - Same as Dim, but syntax highlighting is darker as well.
-  - Modern Light (OLED) Stylized
-    - Same as Modern Light, just with this themeset's stylization added.
+  - **Light Modern (OLED) Saturated**
 
 See CHANGELOG for previous changes.
 

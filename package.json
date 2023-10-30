@@ -4,7 +4,7 @@
   "displayName": "Dark Modern (OLED Black) Theme Set",
   "repository": "https://github.com/BinaryInk/vscode-theme_dark-modern-oled",
   "description": "Visual Studio Code theme designed to be the OLED Black variant of the default Dark/Light Modern themes shipped with the application.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "engines": {
     "vscode": "^1.79.0"
   },
@@ -137,6 +137,16 @@
         "label": "Light Modern (OLED) Saturated Stylized",
         "uiTheme": "vs",
         "path": "./themes/light_modern_oled_saturated_stylized.json"
+      },
+      {
+        "label": "Ayu (OLED Black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu_oled.json"
+      },
+      {
+        "label": "Ayu (OLED Black) Stylized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayu_oled_stylized.json"
       }
     ]
   }

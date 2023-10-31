@@ -1,6 +1,9 @@
 # Changelog
 
-## v1.2.1
+## 1.2.2 (2023-10-31)
+- Modern Dark (OLED Black) (All): White borders are now black, matching the background.
+
+## v1.2.1 (2023-10-30)
 - Ayu: Changed foreground elements to #fff
 
 ## v1.2 (2023-10-30)

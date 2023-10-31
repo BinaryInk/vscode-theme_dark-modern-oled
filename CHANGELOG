@@ -1,7 +1,8 @@
 # Changelog
 
-## 1.2.3
-- Modern Dark (OLED Black) (All): Scrollbar changes; now transluscent on hover and drag, otherwise transparent.
+## 1.2.3 (2023-10-31)
+- Modern Dark (OLED Black) (All): Scrollbar changes; now transluscent on hover and drag, otherwise near-transparent.
+- Ayu: Status Bar coloring now more in line with Dark Modern (OLED Black)
 
 ## 1.2.2 (2023-10-31)
 - Modern Dark (OLED Black) (All): White borders are now black, matching the background.

@@ -51,6 +51,10 @@ All themes have a stylized variant unless otherwise noted. Stylized variants hav
 
 (I happen to think the default light theme looks great as-is, though I may provide changes down the road that amp up the contrast a touch. I primarily wanted to provide a stylized counterpart.)
 
+### Light Modern Grey (OLED)
+
+- A less harsh version of Light Modern for bright displays.
+
 ### Ayu (OLED Black)
 
 ## Custom Colors
@@ -94,9 +98,8 @@ There are no changes to syntax highlighting colors above.
 
 ## Most Recent Changes
 
-- Added the following OLED Black theme(s):
-  - OLED Black - Ayu
-  - OLED Black - Ayu Stylized
+- Added the following theme(s):
+  - Light Modern Grey
 
 See CHANGELOG for previous changes.
 

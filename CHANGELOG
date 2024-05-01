@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.3 (2024-05-01)
+- Light Modern Grey (OLED) added.
+
 ## 1.2.3 (2023-10-31)
 - Modern Dark (OLED Black) (All): Scrollbar changes; now transluscent on hover and drag, otherwise near-transparent.
 - Ayu: Status Bar coloring now more in line with Dark Modern (OLED Black)

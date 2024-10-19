@@ -1,5 +1,14 @@
 # Changelog
 
+# 1.3.2 (2024-10-19)
+  - Darker selection background color
+  - Revised Modern Dark OLED.
+    - Changed buttons and other elements to use black backgrounds with blue foreground and/or blue outlines.
+    - Changed some selections to be colored.
+    - Made any background that wasn't already black that should've been (e.g., tooltips)
+    - Other minor tweaks
+  - Defaults now made explicit in JSON.
+
 # 1.3.1 (2024-05-01)
   - Various foreground and background tweaks based on short-term use after publishing.
   - There's more I want to fix but this resolves the major pain points.

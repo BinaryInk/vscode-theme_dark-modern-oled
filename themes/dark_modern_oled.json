@@ -504,7 +504,7 @@
         "notificationLink.foreground": "#40a6ff",
         "notificationToast.border": "#41aafa",
         "notifications.background": "#000",
-        "notifications.border": "#000",
+        "notifications.border": "#41aafa",
         "notifications.foreground": "#fff",
         "notificationsErrorIcon.foreground": "default",
         "notificationsInfoIcon.foreground": "default",

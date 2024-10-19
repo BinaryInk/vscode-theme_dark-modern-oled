@@ -500,7 +500,7 @@
         "notebookStatusSuccessIcon.foreground": "default",
         "notificationCenter.border": "#000",
         "notificationCenterHeader.background": "#41aafa",
-        "notificationCenterHeader.foreground": "#fff",
+        "notificationCenterHeader.foreground": "#000",
         "notificationLink.foreground": "#40a6ff",
         "notificationToast.border": "#41aafa",
         "notifications.background": "#000",

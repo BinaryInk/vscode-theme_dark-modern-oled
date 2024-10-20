@@ -1,5 +1,10 @@
 # Changelog
 
+# 1.3.3 (2024-10-19)
+  - Fixed two selection instances where the foreground and background were the same color
+  - Changed the tab bar selected & modified border colors.
+  - Changed terminal cursor colors.
+
 # 1.3.2 (2024-10-19)
   - Darker selection background color
   - Revised Modern Dark OLED.

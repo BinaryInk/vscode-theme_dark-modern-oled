@@ -1,4 +1,9 @@
 # Changelog
+# 1.3.5 (2024-10-20)
+  I missed a background entry & I don't think my synchronization between desktop & laptop happened prior to pushing out package to marketplace (thus, 1.3.4 didn't actually change anything).
+
+  - *Active* Activity background now also black.
+
 # 1.3.4 (2024-10-20)
   TL;DR: I probably should have slept on the changes I made yesterday instead of pushing them out the door. 
   

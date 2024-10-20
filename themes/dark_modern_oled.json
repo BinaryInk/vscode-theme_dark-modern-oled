@@ -4,7 +4,7 @@
     "include": "./dark_modern.json",
     "colors": {
         "actionBar.toggledBackground": "#000",
-        "activityBar.activeBackground": "default",
+        "activityBar.activeBackground": "#000",
         "activityBar.activeBorder": "#41aafa",
         "activityBar.activeFocusBorder": "default",
         "activityBar.background": "#000",

@@ -1,4 +1,39 @@
 # Changelog
+# 1.3.4 (2024-10-20)
+  TL;DR: I probably should have slept on the changes I made yesterday instead of pushing them out the door. 
+  
+  I want to make a more VSCode (i.e., #41aafa) accent-heavy variant in the future, and an accent variant that incorporates more of the Visual Studio aesthetic (i.e., purple, some of the syntax highlighting colors). I jumped the gun on that yesterday and came to the realization that I should preserve a more reserved and subtle approach to the existing theme, and give myself a little time to better design a more flashy variant... With that in mind and with this change, the main 'Dark Modern OLED' will remain a more subtle and conservative take on the Modern Dark theme. With this overhaul, I don't anticipate needing to change anything in the future.
+
+  I'll be addressing the other variants in 1.4, and possibly introduce the aforementioned accent-heavy variant and VS variant(s).
+
+  ---
+
+  - Reverted various changes from 1.3.2 & 1.3.3 and overall made the appearance more subtle. Using fewer explicit colors and relying on defaults, which improves consistency and editability in the future.
+    - Highlighted borders in accent color are used more sparingly, typically only for focus or selection.
+      - Widgets and other pop-out borders are typically #444 instead of bright blue.
+    - Standardized colors:
+      - #000
+      - #222
+      - #444
+      - #666
+      - #888
+      - #aaa
+      - #ccc
+      - #fff
+      - #41aafa (Accent)
+      - #ea6c13 (Debug & Modified Tab Border)
+      - There are a few outliers, but for the most part, every element I've changed are now using those colors for consistency.
+  - Status bar colors:
+    - Dim white when no workspace is open
+    - Brighter white when workspace is open instead of accent.
+    - Accent now used for hover
+    - Very dim border introduced. (I don't want most of the UI to have any border, but it makes sense here and looks good overall).
+  - Line numbers are now dimmer.
+  - Tabs now have hover, a slight border on selection, and a more prominent border at the end of pins.
+  - Text selections are now grey. Most hovers are now grey.
+  - *Actually* fixed a few things that somehow didn't get included in 1.3.3 and 1.3.2 (e.g., terminal cursor colors).
+  - Changed the Activity Bar background to #000 again. Hadn't realized changing it to 'default' made it non-#000, thought it would inherit from the panel.
+  - Changed Activity Bar foreground to white.
 
 # 1.3.3 (2024-10-19)
   - Fixed two selection instances where the foreground and background were the same color

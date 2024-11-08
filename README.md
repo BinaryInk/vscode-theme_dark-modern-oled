@@ -6,6 +6,8 @@ Visual Studio Code theme designed to be the "OLED Black" variant of the default
 The scope of this extension has changed: now offering other well-known syntax highlighting color schemes in OLED Black
 variants. This may or may not be spun off into its own extension; an "OLED Black" extension collection would be introduced.
 
+See CHANGELOG for changes between versions.
+
 ## Included Themes
 
 All themes feature pitch black (#000) backgrounds and bright white foregrounds (#fff) unless otherwise noted. Syntax
@@ -95,13 +97,6 @@ Below are the workbench attributes that have the accent color:
 - welcomePage.progress.foreground
 
 There are no changes to syntax highlighting colors above.
-
-## Most Recent Changes
-
-- Added the following theme(s):
-  - Light Modern Grey
-
-See CHANGELOG for previous changes.
 
 ## Disclaimer
 

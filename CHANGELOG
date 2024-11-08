@@ -1,4 +1,7 @@
 # Changelog
+# 1.3.6 (2024-11-08)
+  - Swapped primary and secondary button styles (The blue foreground on the secondary style felt confusing, as it seemed to indicate it was the primary button).
+
 # 1.3.5 (2024-10-20)
   I missed a background entry & I don't think my synchronization between desktop & laptop happened prior to pushing out package to marketplace (thus, 1.3.4 didn't actually change anything).
 

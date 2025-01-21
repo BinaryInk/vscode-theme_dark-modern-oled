@@ -593,7 +593,7 @@
         "scmGraph.historyItemHoverDefaultLabelBackground": "default",
         "scmGraph.historyItemHoverDefaultLabelForeground": "default",
         "scmGraph.historyItemHoverDeletionsForeground": "default",
-        "scmGraph.historyItemHoverLabelForeground": "default",
+        "scmGraph.historyItemHoverLabelForeground": "#000000",
         "scmGraph.historyItemRefColor": "default",
         "scmGraph.historyItemRemoteRefColor": "default",
         "scrollbar.shadow": "default",

@@ -19,6 +19,8 @@ All themes have a stylized variant unless otherwise noted. Stylized variants hav
   - Types/Classes: underline
   - Comments: italic
 
+> Disclaimer: Screenshots haven't been updated since 0.2.0. I'm working on a 2.0 overhaul and they will be updated at that point in time. Screenshots are still fairly representative of what to expect, however.
+
 ### Dark Modern (OLED Black)
 
 ![Screenshot](images/Screenshot_0.2.0_oled-black.png)
